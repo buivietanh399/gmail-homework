@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="inbox">Inbox</string>
+    <string name="avatar">a</string>
+    <string name="label">Chris abab</string>
+    <string name="subtitle">lorem lorem lorem lorem</string>
+    <string name="time">12:34 PM</string>
+</resources>
